@@ -3,7 +3,7 @@ title = "Shirley's Blog"
 theme = "hugo-theme-cleanwhite-master"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "disqus_mJ6sAvoeuX"
+disqusShortname = "shirleyhsu"
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
